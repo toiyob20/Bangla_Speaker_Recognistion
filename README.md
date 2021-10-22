@@ -4,6 +4,7 @@ The voice features used are
 1. Spectrogram
 2. Mel-Spectrogram
 3. Mel-Frequency Cepstral Co-efficient
+
 We used Support-vector Machine based ML approach and CNN to train our model. A fairly good precision is achieved in predicting speakers.
 The detailed presentation file can be found in the presentation folder.
 
