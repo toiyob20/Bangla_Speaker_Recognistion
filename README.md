@@ -8,3 +8,7 @@ The voice features used are
 We used Support-vector Machine based ML approach and CNN to train our model. A fairly good precision is achieved in predicting speakers.
 The detailed presentation file can be found in the presentation folder.
 
+The dataset prepared is uploaded here:
+https://www.kaggle.com/toiyobhn/bangla-speaker-recognistion
+
+
